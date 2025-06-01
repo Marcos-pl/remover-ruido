@@ -1,3 +1,8 @@
+// app.py
+// Copyright (c) 2025 Marcos Paulo Dos santos
+// Este ficheiro é parte do projeto "Redução de Ruído de Áudio em Vídeos".
+// Todos os direitos reservados.
+
 // static/js/script.js
 
 // --- Seletores de Elementos DOM ---

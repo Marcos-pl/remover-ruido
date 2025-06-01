@@ -1,4 +1,9 @@
 # app.py
+# Copyright (c) 2025 Marcos Paulo Dos santos
+# Este ficheiro é parte do projeto "Redução de Ruído de Áudio em Vídeos".
+# Todos os direitos reservados.
+#
+# app.py
 import os
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
