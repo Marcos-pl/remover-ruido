@@ -4,8 +4,7 @@ Data: 31 de maio de 2025
 
 1. Visão Geral do Projeto
 O VideoClear é uma aplicação web desenvolvida para oferecer uma solução simples e eficaz para a melhoria da qualidade de áudio em ficheiros de vídeo. A plataforma permite que os utilizadores façam o upload de um vídeo, que é processado no servidor para remover ruídos de fundo indesejados da trilha sonora. O resultado é um novo ficheiro de vídeo com o áudio limpo, que pode ser descarregado pelo utilizador.
-
-O projeto destina-se a criadores de conteúdo, editores de vídeo, estudantes, e qualquer pessoa que precise de melhorar a clareza do áudio nos seus vídeos sem a necessidade de software de edição complexo.
+O projeto destina-se a criadores de conteúdo, editores de vídeo, estudantes, e qualquer pessoa que precise de melhorar a clareza do áudio nos seus vídeos sem a necessidade de software de edição complexo
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. Funcionalidades Implementadas
 Upload de Vídeo: Interface web responsiva com uma zona de "arrastar e soltar" (drag and drop) e um botão para procurar ficheiros locais.
